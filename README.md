@@ -42,7 +42,7 @@ Completing my Master's in Technology with a focus on Data Science has equipped m
 8. Master’s Thesis Title : Botnet detection in IoT network using AI algorithms on Apache Spark platform.
 9. Bachelor’s Thesis Title : Tree Top a Platform Strategy for Holmen Skog.
 
-##Achievements 
+## Achievements 
 - IELTS March 2024: Band 7
 - Presented Research at 4th International Conference on Innovative Data Communication Technology and Application.
 - Selected as an Exchange student for Bachelor Thesis at Umea University, Sweden.
