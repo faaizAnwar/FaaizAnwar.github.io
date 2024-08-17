@@ -31,81 +31,33 @@ Completing my Master's in Technology with a focus on Data Science has equipped m
 - Worked under the guidance of supervisor for different cybersecurity threats including Botnet detections in IoT networks using unstructured datasets.
 - Worked in comparison, evaluation and publication  of research work and master thesis under the guidance and mentorship of supervisor.
 
-### Panthera
-***Software Engineer Intern*** (_September 2022 – June 2023_)
-- Worked in a team of four as an intern software engineer for year-long Capstone project.
-- Developed image processing library to optimize data for machine learning models.
-- Organized weekly meetings with team Sponsor and Advisor.
+## Project
+1. Comparison of Artificial Intelligence Algorithms for IoT Botnet Detection on Apache Spark Platform, 2022.
+2. Botnet detection in IoT networks using AI algorithms on Apache Spark platform, 2022.
+3. House price prediction using SRIMAX and VAR time series model, 2021.
+4. Statement Emotion Analysis using NLP, 2021.
+5. Traffic Signal Recognition System Using CNN and Deep Neural Network, 2020.
+6. Credit card fraud detection using machine learning algorithm, 2020.
+7. Diabetes prediction using neural networks, 2019.
+8. Master’s Thesis Title : Botnet detection in IoT network using AI algorithms on Apache Spark platform.
+9. Bachelor’s Thesis Title : Tree Top a Platform Strategy for Holmen Skog.
 
-## Leadership Experience
-### The Brotherhood of Chi Theta Psi
-
-***Alumni Chair*** (_June 2024 – Present_)
-- Acted as the point of contact between Alumni and the Active Brothers alongside another co-chair.
-- Coordinated and Facilitated quarterly mixers and events with Alumni Brothers.
-- Consistently kept 50+ Alumni Brothers informed and up-to-date on the Active House's doings.
-
-***Secretary and Executive Board*** (_May 2023 – May 2024_)
-- Wrote & distributed minutes for weekly board meetings.
-- Maintained roster of 80+ active and alumni members.
-- Organized and managed Brotherhood Google Drive, Google Calendar, Google Contacts, and LinkedIn.
-- Led various committees with other members to produce large-scale events including a cultural show and our annual banquet.
-
-***New Member Educator*** (_May 2023 - March 2024_)
-- Responsible for designing and executing an 8-week educational program.
-- Educated 9 new members alongside a partner during Winter Quarter.
-- Led informational meetings twice a week across two campuses.
-- Instructed and instilled Filipino history, morals, and values.
-- Planned logistics of weekly workshops and events.
-- Maintained 100% retention rate throughout the process.
-
-***Philanthropy Chair*** (_August 2022 – May 2023_)
-- Raised awareness of our philanthropy (cardiovascular disease and strokes) through events and social media.
-- Collaborated with the UW Filipinx Association for Health Careers (FAHC) to host an educational workshop. 
-- Organized blood drive w/ Bloodworks NW in support of cardiovascular disease awareness.
-- Promoted and Educated students about Filipino culture.
-- Collaborated with SU United Filipino Club (UFC) to host a cultural-based social event.
-
-### Northwest Filipino American Student Alliance (NWFASA)
-
-***Advisory Board Member*** (_May 2024 – Present_)
-
-### Seattle University's United Filipino Club (UFC)
-
-***Affiliate Relations Officer*** (_May 2023 – May 2024_)
-- Acted as the point of contact between UFC and both the Northwest Fil-Am Student Alliance (NWFASA) and Kabataan Alliance (KA).
-- Attended NWFASA and KA meetings monthly and relayed information to UFC.
-- Collaborated with UW Filipino American Student Association (FASA sa UW) and the Filipino American National Historical Society (FANHS National) to organize a cultural showcase and panel.
-- Organized social and educational events with Filipinx student- and youth-led orgs across the PNW.
-
-***Fundraising Chair*** (_May 2022 – May 2023_)
-- Created fundraisers and social events to provide revenue. 
-- Connected with local businesses like Chipotle and Drip Tea to raise funds.
-- Hosted quarterly general meetings to promote Filipino culture.
-
-***Performer and Cultural Dancer*** 
-
-Performed at three of UFC's annual flagship cultural event Barrio Fiesta.
-
-_30th Annual Barrio Fiesta_ (_Winter 2024_)
-* Emceed the 500+ attended event with another host.
-* Performed three dances including the traditional Filipino dances _Sayaw Sa Bangko_ and _Sakuting_, and a modern hip-hop dance.
-* Performed as a main character in the skit.
-
-_29th Annual Barrio Fiesta_ (_Winter 2023_)
-* Recruited volunteers from UFC and other on- and off-campus communities as the **Network and Outreach Chair**.
-* Emceed the 400+ attended event with another host.
-* Performed two dances including the traditional Filipino dance _Cariñosa_ and a modern hip-hop dance.
-* Performed as a main character in the skit.
-
-_28th Annual Barrio Fiesta_ (_Spring 2022_)
-* Organized the gathering of financial and inventory donations from UFC alumni, families, and local businesses as the **Donations Chair**.
-* Performed a modernized version of the traditional Filipino dance _Tinikling_.
+##Achievements 
+- IELTS March 2024: Band 7
+- Presented Research at 4th International Conference on Innovative Data Communication Technology and Application.
+- Selected as an Exchange student for Bachelor Thesis at Umea University, Sweden.
+- Provided a Business Innovative procedure to board members of  HOLMEN AB, Sweden.
 
 <!-- add marianas ?-->
+## Publications
+1. Faaiz Anwar and S. Saravanan, 2022, “Comparison of Artificial Intelligence Algorithms for IoT Botnet Detection on Apache Spark Platform”, Procedia Comput. Sci. 215, Page No. 499–508.[https://doi.org/10.1016/j.procs.2022.12.052]
+2. Faaiz Anwar , R.Jeyanthi, 2022, “ House Price Prediction using SARIMA AND VAR Model '', International Journal of Engineering Research & Technology (IJERT), April 2022 Volume 11, Issue 04, Page No. 534-538. [DOI:10.17577/IJERTV11IS040246]
+3. Dr.Krithika.V,  Faaiz Anwar, 2019, "Electronic Resources Sway on Libraries ", IJRAR - International Journal of Research and Analytical Reviews (IJRAR), Volume.6, Issue 1, Page No.569-571.[http://www.ijrar.org/papers/IJRAR19J2804]
 
 ## Skills and Hobbies
 
-**Skills**: Programming, C/C++, Java, C#, Python, Emceeing, Copywriting & Content Writing, Team Leadership
+**Skills**
+- Technical Skills : SAP S4/HANA, SAP BTP, Apache Spark, Algorithm Design, ETL Process, TensorFlow, Keras, NLTK, Scikit-learn.
+- Computing Skills : SAP ABAP,  SAP UI5, Python, C, C++, SQL, Pyspark, Node.js, XML, Tableau, PowerBI, MS Office.
 
-**Hobbies and Interests**: Boxing, Filipino Culture and Issues, Mexican Culture and Issues
+**Hobbies and Interests**: Reading, Research, Indian Culture and Issues, International Culture and Issues.
